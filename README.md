@@ -84,11 +84,13 @@ Machine Learning • Deep Learning • TensorFlow • PyTorch • Pandas • Num
 
 ## 🔬 Currently Exploring
 
+<pre>
 Artificial Intelligence  ████████████████████
 Machine Learning         ████████████████████
 React                    ██████████████████░░
 Backend Engineering      ██████████████████░░
 Cloud Computing          ██████████████░░░░░░
+</pre>
 
 ---
 
