@@ -12,6 +12,7 @@
 ## 👋 About Me
 
 Name: CLINTON DICKENS
+
 Focus:
   - Artificial Intelligence
   - Full Stack Development
