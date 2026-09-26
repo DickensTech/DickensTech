@@ -1,12 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:d97706,100:ea580c&height=220&section=header&text=CLINTON%20DICKENS&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=15&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0f00,50:8b4513,100:d97706&height=220&section=header&text=CLINTON%20DICKENS&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=15&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
   <b>Building AI-Powered Applications</b>
 </p>
-
 
 ---
 
