@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff4500&height=200&section=header&text=CLINTON%20DICKENS&fontSize=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=16" width="100%" />
+</p>
 
-<!--
-**DickensTech/DickensTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building AI-Powered Applications</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+```text
+Name: CLINTON DICKENS
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning
+  - SaaS Platforms
+
+Learning:
+  - AI Agents
+  - LangChain
+  - RAG Systems
+  - LLM Engineering
+
+Open To:
+  - Collaborations
+  - Open Source
+  - AI Research
+  - Internships
