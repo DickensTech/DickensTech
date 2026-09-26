@@ -119,3 +119,12 @@ Cloud Computing          ██████████████░░░░�
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickensTech&layout=compact&theme=tokyonight&hide_border=true" />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DickensTech&show_icons=true&theme=tokyonight&hide_border=true" />
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DickensTech&color=ff4500&style=flat-square" alt="Profile Views" />
+</p>
