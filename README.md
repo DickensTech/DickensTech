@@ -37,7 +37,7 @@ Open To:
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,rust,go" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,php,cpp,cs,rust,go" />
 </p>
 
 ### Frontend
@@ -52,7 +52,7 @@ Open To:
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
 ### DevOps & Tools
