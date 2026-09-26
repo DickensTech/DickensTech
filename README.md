@@ -11,7 +11,6 @@
 
 ## 👋 About Me
 
-```text
 Name: CLINTON DICKENS
 Focus:
   - Artificial Intelligence
@@ -31,50 +30,68 @@ Open To:
   - AI Research
   - Internships
 
+---
 
-💻 Tech Stack
-​Languages
-​<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,rust,go" />
-</p>
-​Frontend
-​<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,svelte" />
-</p>
-​Backend
-​<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
-</p>
-​Databases
-​<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-</p>
-​DevOps & Tools
-​<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,kubernetes,terraform,vscode,figma" />
-</p>
-​AI & Data Science
-​Machine Learning • Deep Learning • TensorFlow • PyTorch • Pandas • NumPy • OpenCV • Scikit-Learn • LangChain • Hugging Face • Prompt Engineering • RAG • LSTM
+## 💻 Tech Stack
 
-
-​📊 GitHub Statistics
-​<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DickensTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,rust,go" />
 </p>
 
-​🎯 Current Goals
-​🚀 Build impactful AI products
-​🤖 Master LLM Engineering
-​🌐 Contribute to Open Source
-​☁️ Learn Cloud & Distributed Systems
-​💼 Become a Professional AI Engineer
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,svelte" />
+</p>
 
-​🔬 Currently Exploring
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,kubernetes,terraform,vscode,figma" />
+</p>
+
+### AI & Data Science
+Machine Learning • Deep Learning • TensorFlow • PyTorch • Pandas • NumPy • OpenCV • Scikit-Learn • LangChain • Hugging Face • Prompt Engineering • RAG • LSTM
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DickensTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Build impactful AI products
+* 🤖 Master LLM Engineering
+* 🌐 Contribute to Open Source
+* ☁️ Learn Cloud & Distributed Systems
+* 💼 Become a Professional AI Engineer
+
+---
+
+## 🔬 Currently Exploring
+
 Artificial Intelligence  ████████████████████
 Machine Learning         ████████████████████
 React                    ██████████████████░░
 Backend Engineering      ██████████████████░░
 Cloud Computing          ██████████████░░░░░░
 
-💡 Quote
+---
+
+## 💡 Quote
+
 > *"First, solve the problem. Then, write the code."*
