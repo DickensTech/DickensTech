@@ -117,6 +117,9 @@ Cloud Computing          ██████████████░░░░�
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+<p align="center">
+  Feel free to reach out for collaborations, opportunities, or just a friendly chat about AI and tech!
+</p>
 
 ---
 
